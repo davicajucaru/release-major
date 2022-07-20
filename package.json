@@ -1,7 +1,7 @@
 {
   "name": "release-major",
   "private": true,
-  "version": "22.9.1-rc.0",
+  "version": "22.9.0-dev.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
